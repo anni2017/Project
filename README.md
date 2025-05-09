@@ -18,9 +18,9 @@ A simple and interactive **TIC-TAC-TOE** game built using **HTML**, **CSS**, and
 
 tic-tac-toe/
 └── javascript/
-  ├── index.html # Main HTML file to structure the game layout
-  ├── game.css # CSS file to style the game board and interface
-  └── game.js # JavaScript file containing the game logic
+   ├── index.html # Main HTML file to structure the game layout
+   ├── game.css # CSS file to style the game board and interface
+   └── game.js # JavaScript file containing the game logic
 
 ## Clone the Repository
    git clone https://github.com/your-username/tic-tac-toe.git
